@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CepGan</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="contact">Contact Me</string>
+    <string name="about">About Me</string>
+    <string name="friends">Friend List</string>
+    <string name="logout">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nim">NIM</string>
+    <string name="_10116601">10116295</string>
+    <string name="kelas">Nama</string>
+    <string name="if_7">Cecep Arief Habibudin</string>
+
+
+
+    <string name="telp">085720675067</string>
+    <string name="email">ariefhabibudin@gmail.com</string>
+    <string name="ig">cepariefh</string>
+
+
+
+    <string name="about_aplikasi">
+        Nama Aplikasi yang saya buat adalah CepGan kepanjangan dari Cecep Ganteng
+        \nAplikasi ini berisi profile saya dan juga list teman-teman saya
+        \nSaya adalah Cecep Arief Habibudin
+        \nLahir di Garut pada tanggal 04 September 1998
+        \nSaya Anak pertama dari dua bersaudara.
+        \nSaya tinggal berasama Ibu di Ciparay, Kabupaten Bandung.
+    </string>
+    <string name="aboutme">
+        Aplikasi ini dibuat untuk memenuhi tugas Aplikasi Komputasi Bergerak.
+    </string>
+    <string name="nama">Nama</string>
+    <string name="simpan">Simpan</string>
+    <string name="teleponan">Telepon</string>
+    <string name="tv_email">Email</string>
+    <string name="sosial_media">Sosial Media</string>
+    <string name="delete">Delete</string>
+    <string name="email_text">Username</string>
+    <string name="telepon">Telepon</string>
+
+</resources>
